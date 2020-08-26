@@ -1,6 +1,4 @@
-$(document).ready(function() {
-    $("#qwerty").show(100);
-});
+
     const firstName = document.getElementById('firstName');
     const lastName = document.getElementById('lastName');
     const age = document.getElementById('age');
