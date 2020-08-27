@@ -60,7 +60,7 @@ class Company {
         pAvgAge.appendChild(document.createTextNode(`Average age: ${this.avgAge}`));
         stats.appendChild(pSalary);
         stats.appendChild(pAvg);
-        stats.appendChild(pSalary);
+        stats.appendChild(pSize);
         stats.appendChild(pMaxAge);
         stats.appendChild(pMinAge);
         stats.appendChild(pAvgAge);
